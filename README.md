@@ -1,2 +1,2 @@
 # simjunky.github.io
-github pages for simjunky
+Welcome to the github pages for simjunky
